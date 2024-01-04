@@ -1,0 +1,251 @@
+,label,prediction
+0,Quantum circuits for strongly correlated quantum systems,Quantum Simulation of strongly correlated Many-Body Hamiltonians
+1,Early Warnings of Cyber Threats in Online Discussions,Generate alerts of imminent or current cyber-threats
+2,Evaluation of Plane Detection with RANSAC According to Density of 3D   Point Clouds,Random Sample Consensus
+3,TeKo: Text-Rich Graph Neural Networks with External Knowledge,Text-rich Graph Neural Networks with External Knowledge
+4,Multiparty Compatibility in Communicating Automata: Characterisation and   Synthesis of Global Session Types,Multiparty Session Types: Implications for   Multiparty Synchronisation
+5,Self-Supervised 3D Traversability Estimation with Proxy Bank Guidance,Traversability estimation for mobile robots in off-road environments
+6,Multi-user Communication Networks: A Coordinated Multi-armed Bandit   Approach,Multi-Armed Bandit Learning for Multi-User Level Communication Networks
+7,Online Dynamic Network Embedding,Recurrent Neural Network Embedding for Dynamic Networks
+8,Analyzing Infrastructure LiDAR Placement with Realistic LiDAR Simulation   Library,Realistic LiDAR Simulation for Infrastructure Sensors
+9,Self-Stabilization: The Implicit Bias of Gradient Descent at the Edge of   Stability,General Dynamics of gradient descent
+10,Game Theory for Cyber Deception: A Tutorial,Introduction to Game Theory of Deception and Counter-Deception
+11,Trustworthy modelling of atmospheric formaldehyde powered by deep   learning,Deep Learning for Remote Sensing of Formaldehyde in the Atmosphere
+12,Combining deep learning and street view imagery to map smallholder crop   types,Collaborative Agriculture with Deep Learning and Google Street View
+13,Designing Trustworthy User Interfaces,Generate a proof of concept interface for user interface design
+14,A Fundamental Performance Limitation for Adversarial Classification,Generate a relevant title related to the classification of binary classification algorithms
+15,A Framework for learning multi-agent dynamic formation strategy in   real-time applications,Generate a group of algorithms for learning formation strategy in a restricted environment
+16,Reduced-Order Modeling of Thermal Dynamics in District Energy Networks   using Spectral Clustering,Simulation of thermal dynamics in city-scale district energy grids
+17,Uncertainty-Aware Text-to-Program for Question Answering on Structured   Electronic Health Records,Generate a program-based model for EHR-QA
+18,Query-Efficient Adversarial Attack Based on Latin Hypercube Sampling,LHS-BA: A Latin Hypercube Sampling Based Boundary Attack
+19,Infinite Unlimited Churn,Unfair Infinite Unlimited Churn Problem in Peer-to-Peer overlay Networks
+20,Two-stage WECC Composite Load Modeling: A Double Deep Q-Learning   Networks Approach,Double Deep Q-Learning Network for the WECC CLM
+21,The Hodge Laplacian on Axisymmetric Domains and its Discretization,Fourer-finite-element-methods in weighted functions spaces
+22,CARGO: Effective format-free compressed storage of genomic information,CARGO: Compressed ARchiving for GenOmics
+23,Music-to-Text Synaesthesia: Generating Descriptive Text from Music   Recordings,music-to-text synaesthesia
+24,"diagnoseIT: Expertengest\""utzte automatische Diagnose von   Performance-Probleme in Enterprise-Anwendungen (Abschlussbericht)",This is the final report of the collaborative research project diagnoseIT on expert-guided automatic diagnosis of performance problems in enterprise applications.
+25,XGBoost energy consumption prediction based on multi-system data HVAC,Generate an efficient energy consumption prediction model for the Internet of Things platform
+26,Randomized Projection Methods for Linear Systems with Arbitrarily Large   Sparse Corruptions,Large-scale linear equations
+27,Automatic Identification of Stone-Handling Behaviour in Japanese   Macaques Using LabGym Artificial Intelligence,Artificial Intelligence for the Analysis of   Primate Behaviour
+28,Electrocorticographic Dynamics Predict Visually Guided Motor Imagery of   Grasp Shaping,Figure 1: Neural dynamics of hand grasp shaping in volitional neuroprosthetics
+29,Proactive Resilient Transmission and Scheduling Mechanisms for mmWave   Networks,Risk to Link Failures in mmWave Networks
+30,Energy-Efficient Power Control of Train-ground mmWave Communication for   High Speed Trains,Energy Efficiency of train-ground mmWave communication for high speed trains
+31,Quaternion-based non-singular terminal sliding mode control for a   satellite-mounted space manipulator,A robust control solution for a satellite equipped with a robotic manipulator
+32,The Big-O Problem,Generated Title: The Big-O Problem for Unlabelled Weighted Automata
+33,Who Goes First? Influences of Human-AI Workflow on Decision Making in   Clinical Imaging,Introduction to Human-AI Collaboration
+34,Multi-stream Convolutional Neural Network with Frequency Selection for   Robust Speaker Verification,Multi-stream Convolutional Neural Network for Speaker Verification
+35,Tableau-based procedure for deciding satisfiability in the full   coalitional multiagent epistemic logic,Generate a relevant title related to the multiagent epistemic logic CMAELCD
+36,Physics-guided Deep Markov Models for Learning Nonlinear Dynamical   Systems with Uncertainty,A probabilistic physics-guided Deep Markov Model for Nonlinear Dynamical Systems
+37,A penalty scheme for monotone systems with interconnected obstacles:   convergence and error estimates,Penalty approach for quasi-variational inequalities
+38,Safe Approximate Dynamic Programming Via Kernelized Lipschitz Estimation,Generate safe initial policies for reinforcement learning via approximate dynamic programming
+39,Evaluating Gradient Inversion Attacks and Defenses in Federated Learning,Gradient inversion attack: a new defense mechanism for Federated Learning
+40,Massively Parallel Algorithms for the Lattice Boltzmann Method on   Non-uniform Grids,Lattice Boltzmann-Based Simulation on Non-Uniform grids
+41,New Confocal Hyperbola-based Ellipse Fitting with Applications to   Estimating Parameters of Mechanical Pipes from Point Clouds,Interpretation of the confocal hyperbola approximation to the geometric distance of cylindrical mechanical pipes from point clouds
+42,SC-Block: Supervised Contrastive Blocking within Entity Resolution   Pipelines,Contextual Contrastive Learning for Blocker Resolution
+43,Application of Zone Method based Machine Learning and Physics-Informed   Neural Networks in Reheating Furnaces,Generate Data for Reheating Furnaces in Foundation Industries
+44,Digital Metasurface Based on Graphene: An Application to Beam Steering   in Terahertz Plasmonic Antennas,Metasurfaces: A Design Approach to Reconfigurable and   Programmability
+45,Measuring the Effectiveness of Privacy Policies for Voice Assistant   Applications,Privacy Policies on Voice Assistants and Google Assistant
+46,A survey on bias in machine learning research,Understanding the sources and consequences of bias in machine learning
+47,Curriculum Learning for Compositional Visual Reasoning,Visual Question Answering
+48,A Note on Easy and Efficient Computation of Full Abelian Periods of a   Word,Constantinescu and Ilie
+49,SA-UNet: Spatial Attention U-Net for Retinal Vessel Segmentation,Spatial Attention U-Net: Spatial Attention for Eye-related Diseases
+50,The Approximation Ratio of the Greedy Algorithm for the Metric Traveling   Salesman Problem,We prove the approximation ratio of the Clarke-Wright savings heuristic for the metric Traveling Salesman Problem is $\The
+51,Collaborative Unsupervised Visual Representation Learning from   Decentralized Data,Federated Unsupervised Image Learning
+52,Benchmarking the face-centred finite volume method for compressible   laminar flows,Generate numerical benchmarks for compressible laminar flows using face-centred finite volume software
+53,Anticipatory Buffer Control and Quality Selection for Wireless Video   Streaming,Generate a practical heuristic for segmented video streaming protocols
+54,Fused Gromov-Wasserstein distance for structured objects: theoretical   foundations and mathematical properties,Generate a relevant title related to the Fused Gromov-Wasserstein Distance
+55,Deep learning-based survival prediction for multiple cancer types using   histopathology images,DLS to Predict Disease Specific Survival across 10 Cancer Types from The Cancer Genome Atlas
+56,Decomposition Complexity,Generate a relevant title related to the problem of decomposition of a ternary function into binary ones
+57,Tactile Image-to-Image Disentanglement of Contact Geometry from   Motion-Induced Shear,Generate a supervised convolutional deep neural network model for soft optical tactile sensors
+58,On Finding the Largest Mean Among Many,Best Arm Sampling in a Multi-armed Bandit Problem
+59,Cleanformer: A multichannel array configuration-invariant neural   enhancement frontend for ASR in smart speakers,"Cleanformer, a multichannel neural based enhancement frontend for automatic speech recognition"
+60,TS-Reconfiguration of Dominating Sets in circle and circular-arc graphs,Generate a relevant title related to the dominating set reconfiguration problem with token sliding rule
+61,Unifying Heterogeneous Classifiers with Distillation,Unifying Heterogeneous Classifiers
+62,Safe Control under Uncertainty,Probabilistic Signal Temporal Logic for Hybrid Systems
+63,Meta-Learning with Less Forgetting on Large-Scale Non-Stationary Task   Distributions,Semi-Supervised Meta-Learning with Evolving Task DiStributions
+64,Adaptive Visualisation System for Construction Building Information   Models Using Saliency,Building Information Modeling
+65,A new heuristic algorithm for fast k-segmentation,A novel heuristic algorithm for $k$-segmentation
+66,Implementation paradigm for supervised flare forecasting studies: a deep   learning application with video data,Generate a general paradigm for Solar Flare Forecasting
+67,Initialization of Latent Space Coordinates via Random Linear Projections   for Learning Robotic Sensory-Motor Sequences,Generative model for robot sensory-motor behaviour primitives
+68,Population and Inequality Dynamics in Simple Economies,Generate a relevant title related to the complexity of complex population and inequality dynamics in biology and ecology
+69,Cyber-Physical Security and Safety of Autonomous Connected Vehicles:   Optimal Control Meets Multi-Armed Bandit Learning,An optimal safe controller for Autonomous Connected Vehicles
+70,The Narayana Universal Code,This paper presents a method of universal coding based on the Narayana series
+71,Subset Selection Based On Multiple Rankings in the Presence of Bias:   Effectiveness of Fairness Constraints for Multiwinner Voting Score Functions,Smoothness of Submodular Score Functions for subset Selection
+72,Radio Localization and Sensing -- Part II: State-of-the-art and   Challenges,5G and 5G
+73,Security Support in Continuous Deployment Pipeline,Generate a relevant abstract related to the security tactics of Continuous Deployment Pipeline (CD)
+74,PCA Initialization for Approximate Message Passing in Rotationally   Invariant Models,Approximate Message Passing (AMP) with Principal Component Analysis
+75,A Monaural Speech Enhancement Method for Robust Small-Footprint Keyword   Spotting,Generate a Convolutional Neural Networks based KWS System
+76,Policy-Induced Self-Supervision Improves Representation Finetuning in   Visual RL,Generate a self-supervised objective for representation pretrained on source tasks in visual percept based RL
+77,Enforcing Linearity in DNN succours Robustness and Adversarial Image   Generation,Generating adversarial image generation using Inverse Representation Learning and Local Lipschitz Regularizer
+78,Using Small Proxy Datasets to Accelerate Hyperparameter Search,Proxy Datasets for Machine Learning
+79,Semantic Segmentation of Legal Documents via Rhetorical Roles,Generate a corpus of legal documents with three semantically coherent units labels (referred to as Rhetorical Roles)
+80,Two New Approaches to Optical IRSs: Schemes and Comparative Analysis,Generate a relevant title related to the point-to-multipoint free space optical communication (FSO) scenarios
+81,Providing an Object Allocation Algorithm in Distributed Databases Using   Efficient Factors,Data replication in distributed database systems
+82,Runtime Monitoring of Dynamic Fairness Properties,Monitoring Fairness in Static Decision-Making
+83,"Fast, Smart Neuromorphic Sensors Based on Heterogeneous Networks and   Mixed Encodings",Neuromorphic architectures for smart sensors
+84,Progression and Challenges of IoT in Healthcare: A Short Review,Smart Healthcare and Healthcare: A Comparative Analysis of Smart Healthcare and   Security
+85,Boosting Neural Networks to Decompile Optimized Binaries,NeurDP: Neural Machine Translation in Natural Language Processing
+86,Towards Natural Language-Guided Drones: GeoText-1652 Benchmark with   Spatially Relation Matching,Generate a Natural Language-Based Dataset for Drone Navigation Through   Natural Language   Commands
+87,Generalized Matrix Means for Semi-Supervised Learning with Multilayer   Graphs,Semi-supervised learning on multilayer graphs
+88,Frequency Gating: Improved Convolutional Neural Networks for Speech   Enhancement in the Time-Frequency Domain,Frequency Gating for Convolutional Neural Networks
+89,Similarity based Dynamic Web Data Extraction and Integration System from   Search Engine Result Pages for Web Content Mining,WDES and WDICS
+90,Predicting Economic Development using Geolocated Wikipedia Articles,
+91,Decomposing Counterfactual Explanations for Consequential Decision   Making,DisEntangling Algorithmic Recourses
+92,Choice by Elimination via Deep Neural Networks,Generate a relevant title related to the concept of Neural Choice by Elimination
+93,On Training Robust PDF Malware Classifiers,State-of-the-art PDF malware classifiers with verifiable robustness properties
+94,Leveraging Knowledge and Reinforcement Learning for Enhanced Reliability   of Language Models,Learning-guided Learning of General Language Understanding and Evaluation (GLUE)
+95,Dropout as data augmentation,Generate a new dropout noise scheme based on our observations and data augmentation
+96,Consistent discretization of finite/fixed-time controllers,Discretization of a homogeneous homogeneous control
+97,GNNInterpreter: A Probabilistic Generative Model-Level Explanation for   Graph Neural Networks,Generate a model-agnostic model-level explanation for Graph Neural Networks
+98,An Auxiliary Space Preconditioner for Fractional Laplacian of Negative   Order,Coupled Multiphysics Problems
+99,Optimizing Hybrid Spreading in Metapopulations,The optimum balance between hybrid epidemics and global spreading
+100,Large Language Models are not Fair Evaluators,Calibration for Large Language Models
+101,An Attention-Based Denoising Framework for Personality Detection in   Social Media Texts,Attention-Based Information Extracting for Personality Detection
+102,FVC: A New Framework towards Deep Video Compression in Feature Space,Feature-space Video Compression for Learning Based Video Coding
+103,Spatial Networks,Generate a relevant title related to the structure and the evolution of spatial networks
+104,Fairness in Streaming Submodular Maximization: Algorithms and Hardness,Fair Machine Learning for Massive Datapoints
+105,Retrieval-Free Knowledge-Grounded Dialogue Response Generation with   Adapters,KnowExpert: A framework to bypass the explicit retrieval process in knowledge-grounded dialogue
+106,Demonstration-efficient Inverse Reinforcement Learning in Procedurally   Generated Environments,Adversarial Inverse Reinforcement Learning
+107,Solving Elliptic Equations with Brownian Motion: Bias Reduction and   Temporal Difference Learning,Generate a Feynman-Kac formula for elliptic partial differential equations in terms of expectations of continuous time Markov processes
+108,Unsuitability of NOTEARS for Causal Graph Discovery,Causal Discovery Methods
+109,Dynamic Planar Convex Hull,Generate a relevant abstract for the amortized computational complexity of planar dynamic convex hull problem by querying
+110,Uncertainty-Aware CNNs for Depth Completion: Uncertainty from Beginning   to End,Uncertainty of depth data in depth completion
+111,"A Birds Eye View on Knowledge Graph Embeddings, Software Libraries,   Applications and Challenges",Generate a relevant title related to Knowledge Graph Completion
+112,Expression-preserving face frontalization improves visually assisted   speech processing,Facefrontalization for Visual Assistant Speech Communication
+113,Inducing Honest Reporting Without Observing Outcomes: An Application to   the Peer-Review Process,Generate a scoring method to induce honest reporting in the peer-review process
+114,Lila: A Unified Benchmark for Mathematical Reasoning,LILA: A Unified Mathematical Reasoning Benchmark for AI
+115,A Graph Symmetrisation Bound on Channel Information Leakage under   Blowfish Privacy,Blowfish privacy in communications theory
+116,Topics to Avoid: Demoting Latent Confounds in Text Classification,in the context of native language identification
+117,Accelerating System Adequacy Assessment using the Multilevel Monte Carlo   Approach,Generate a relevant title related to the Multilevel Monte Carlo framework
+118,Distributed Bandits with Heterogeneous Agents,A Multi-Agent Bandit Setting with Two Learning Algorithms
+119,From Regular to Context Free to Mildly Context Sensitive Tree Rewriting   Systems: The Path of Child Language Acquisition,The genesis of complex sentences
+120,Applying unsupervised keyphrase methods on concepts extracted from   discharge sheets,Generate essential phrase methods for clinical notes
+121,Testing Preferential Domains Using Sampling,A preferential domain
+122,Key-phrase boosted unsupervised summary generation for FinTech   organization,Unsupervised phrase-based summary generation from social media data
+123,Encoding Electromagnetic Transformation Laws for Dimensional Reduction,Generate a relevant title related to Electromagnetic phenomena
+124,R-GCN: The R Could Stand for Random,Random Relational Graph Convolutional Network
+125,"Provably Precise, Succinct and Efficient Explanations for Decision Trees",Decision Trees for Decision Trees
+126,Transfer-Ensemble Learning based Deep Convolutional Neural Networks for   Diabetic Retinopathy Classification,An ensemble model for diabetic retinopathy classification using convolutional neural networks
+127,Learning to Operate in Open Worlds by Adapting Planning Models,Reinforcement Learning for Planning Agents in Open Worlds
+128,Is $L^2$ Physics-Informed Loss Always Suitable for Training   Physics-Informed Neural Network?,The Physics-Informed Neural Network (PINN) is a New and promising way to solve partial differential equations using   Deep Learning
+129,FL-Market: Trading Private Models in Federated Learning,FL-Market: A locally private platform for ML-oriented data acquisition
+130,Confidence intervals for the random forest generalization error,Generate a relevant title related to the byproducts of the standard training process of random forest
+131,Kernel PCA for multivariate extremes,Generate a relevant title related to the performance of kernel PCA preimages of multivariate extremes
+132,Deep Joint Source-Channel Coding for Wireless Image Retrieval,Generate a DNN-based Communication Scheme for Image Retrieval Over a Wireless Channel
+133,Algorithms on Ideal over Complex Multiplication order,Generate a relevant title related to the Gentry-Szydlo algorithm for cyclotomic orders
+134,Towards a communication-theoretic understanding of system-level power   consumption,Maximization of Total System Power in Communication Links
+135,From Understanding the Population Dynamics of the NSGA-II to the First   Proven Lower Bounds,Generate a relevant title related to the OneMinMax problem and the OneJumpZeroJump problem
+136,High-Order Tensor Recovery with A Tensor $U_1$ Norm,Tensor Recovery Methods for High-order Tensor Data
+137,Mixed Precision DNNs: All you need is a good parametrization,A mixed precision DNN with learned quantization parameters
+138,Quantum-Aided Meta-Learning for Bayesian Binary Neural Networks via Born   Machines,Near-term noisy intermediate-scale quantum circuits with probabilistic models
+139,Pricing-based Distributed Downlink Beamforming in Multi-Cell OFDMA   Networks,Generate a non-convex optimization problem for multi-cell OFDMA networks
+140,"What's the Problem, Linda? The Conjunction Fallacy as a Fairness Problem",Generate a relevant title related to the conjunction fallacy
+141,On the convex hull of convex quadratic optimization problems with   indicators,Convexification of mixed-integer nonlinear sets in an extended formulation
+142,Feedback Refined Local-Global Network for Super-Resolution of   Hyperspectral Imagery,Feedback Refined Local-Global Network for the Super-Resolution of hyperspectral Image
+143,Privacy-Preserving Polynomial Computing Over Distributed Data,Generate a Lagrange encoding approach for polynomial computing over distributed data
+144,Performance Evaluation of Stochastic Bipartite Matching Models,A stochastic bipartite matching model
+145,SSIM-Based CTU-Level Joint Optimal Bit Allocation and Rate Distortion   Optimization,Structural similarity (SSIM)-based distortion of video quality
+146,Maximum Likelihood Estimation for Learning Populations of Parameters,Generate a Minimum likelihood estimator for $N$ independent Bernoulli trials
+147,Is Data Clustering in Adversarial Settings Secure?,Generate a general framework to identify potential attacks against clustering algorithms
+148,Merchant Category Identification Using Credit Card Transactions,Generate a multi-modal learning model for the identification of merchant-merchant relationship
+149,Faster and better: a machine learning approach to corner detection,The Heuristic for Feature Detectors in Real-World Applications
+150,A Parallel-In-Time Adjoint Sensitivity Analysis for a B6 Bridge-Motor   Supply Circuit,Parallel-in-Time adjoint sensitivity analysis with parareal approach
+151,The Limit Order Book Recreation Model (LOBRM): An Extended Analysis,LOBRM: A New Approach to the Limit Order Book for Financial Assets
+152,Web Image Context Extraction with Graph Neural Networks and Sentence   Embeddings on the DOM tree,Web Image Context Extraction
+153,Robust Experimentation in the Continuous Time Bandit Problem,Experimenting the Decision Making Environment in Two-Armed Bandit Setup
+154,Normalized gradient flow optimization in the training of ReLU artificial   neural networks,ReLU ANNs: A Multidimensional Approach to the Training of Artificial Neural Networks
+155,AGENT: An Adaptive Grouping Entrapping Method of Flocking Systems,This study proposes a distributed algorithm for adaptive grouping of multiple targets entrapping
+156,TrUMAn: Trope Understanding in Movies and Animations,Trot Understanding in Movies and Animations (TrUMAn)
+157,Deep Reinforcement Learning-Based Long-Range Autonomous Valet Parking   for Smart Cities,A Long-Range Autonomous Valet Parking Framework for the City Center
+158,Augmented unprojected Krylov subspace methods,Augmented Krylov Subspace Methods for Recurrent Applications
+159,Control Synthesis of Nonlinear Sampled Switched Systems using Euler's   Method,Generate a symbolic control synthesis method for nonlinear sampled switched systems using one-sided Lipschitz
+160,Model-based actor-critic: GAN (model generator) + DRL (actor-critic) =>   AGI,Model-Based DDPG Architecture for AI and Robotics
+161,On the Dynamics of Human Proximity for Data Diffusion in Ad-Hoc Networks,Data-driven investigation of the dynamics of message spreading in a real-world dynamical network of human proximity
+162,Efficient Compilation and Mapping of Fixed Function Combinational Logic   onto Digital Signal Processors Targeting Neural Network Inference and   Utilizing High-level Synthesis,Generate a novel framework for FPGA-based NN inference using fixed function combinational logic
+163,Remote Work Optimization with Robust Multi-channel Graph Neural Networks,Generate a principled approach to the problem of remote workplace   recruitment with limited information
+164,HIGhER : Improving instruction following with Hindsight Generation for   Experience Replay,Hindsight Generation for Experience Replay
+165,"On coloring parameters of triangle-free planar $(n,m)$-graphs",A homomorphism of a graph to another graph with adjacencies of $G$ types and directions
+166,Training Deep Neural Networks with Joint Quantization and Pruning of   Weights and Activations,Quantization and pruning for Deep Neural Networks
+167,1-bit Adam: Communication Efficient Large-Scale Training with Adam's   Convergence Speed,Generate a relevant title related to Scalable Training of Large Models
+168,The Privacy Funnel from the viewpoint of Local Differential Privacy,Generate a Data Privacy Model for the Privacy Funnel
+169,ASYNC: A Cloud Engine with Asynchrony and History for Distributed   Machine Learning,ASYNC: A Framework for Asynchrony and History for Machine Learning on   distributed computing platforms
+170,Similarity based hierarchical clustering of physiological parameters for   the identification of health states - a feasibility study,Generate a relevant abstract for the clustering of physiological data into health states based on similarity constraint
+171,Sequence Aggregation Rules for Anomaly Detection in Computer Network   Traffic,Unsupervised anomaly detection for cybersecurity applications on computer network traffic data
+172,System Equivalence Transformation: Robust Convergence of Iterative   Learning Control with Nonrepetitive Uncertainties,Double-dynamics analysis for iterative learning control
+173,Changepoint Analysis of Topic Proportions in Temporal Text Data,"In this article, we consider \emph{offline} changepoint detection in large corpora"
+174,On the Garden of Eden theorem for non-uniform cellular automata,Generate a relevant title related to the Garden of Eden theorem for non-uniform cellular automata over amenable group universes
+175,Weighted Notions of Fairness with Binary Supermodular Chores,Generate a general framework for fair allocation with binary supermodular cost functions
+176,Mass Loss and Displacement Modeling for Multi-Axis Milling,Generate a model for estimating the mass loss and displacement of the center of mass during multi-axis milling processes
+177,Fixed Points in Cyber Space: Rethinking Optimal Evasion Attacks in the   Age of AI-NIDS,Blackbox adversarial attacks on network classifiers
+178,FAT ALBERT: Finding Answers in Large Texts using Semantic Similarity   Attention Layer based on BERT,Machine based text comprehension
+179,Multi-View Graph Representation Learning Beyond Homophily,Multi-view Graph Representation Learning
+180,GLIMMER: generalized late-interaction memory reranker,Memory-augmentation in Language Models
+181,An Improved Simulation Model for Pedestrian Crowd Evacuation,A new method for pedestrian crowd evacuation based on various AI techniques
+182,Semantics and pragmatics in actual software applications and in web   search engines: exploring innovations,Generate a relevant title related to the use of the Semantic Web
+183,Towards Arabic Multimodal Dataset for Sentiment Analysis,Abstract: Multimodal Sentiment Analysis with Deep Learning-Based Models
+184,Series Resonant Matrix Converter Topology for EV DC Fast Charging,Generate a high-frequency DC link for EV DC Fast Charging
+185,Improving Urban Mobility: using artificial intelligence and new   technologies to connect supply and demand,Information and Communication Technologies for Intelligent Transportation Systems
+186,NLQxform: A Language Model-based Question to SPARQL Transformer,NHLQxform - Knowledge Graph Question Answering
+187,A Reference Architecture and Modelling Principles for Architectural   Stability based on Self-Awareness: Case of Cloud Architectures,Generate a reference architecture and model for stability in long-lived software
+188,Constructing extremal triangle-free graphs using integer programming,Generate an integer programming formulation for triangle-free extremal graphs
+189,Multicommodity Flow in Polynomial Time,Multicommodity flow problem in bipartite graphsGenerated Title:
+190,A Survey of the Impact of Self-Supervised Pretraining for Diagnostic   Tasks with Radiological Images,"Self-supervised pretraining in X-ray, computed tomography, and ultrasound imaging"
+191,An Operator-Splitting Finite Element Method for the Numerical Solution   of Radiative Transfer Equation,"An operator-splitting finite element scheme for the time-dependent, high-dimensional radiative transfer equation"
+192,Enhancing CT Image synthesis from multi-modal MRI data based on a   multi-task neural network framework,Generate a versatile multi-task neural network framework for medical imaging
+193,Detecting semantic anomalies,Generate a relevant title related to the use of out-of-distribution (OOD) detection
+194,Cross-modal Attention Congruence Regularization for Vision-Language   Relation Alignment,Figure 2: Cross-modal Attention Congruence Regularization in Multimodal Vision Language Models
+195,Spatial-Temporal Graph Convolutional Networks for Sign Language   Recognition,Spatial-Temporal Graph Convolutional Network to Sign Language Recognition
+196,An extended polygonal finite element method for large deformation   fracture analysis,Extended finite element method for large strain fracture for hyper-elastic materials
+197,Learning Solving Procedure for Artificial Neural Network,LSP Neural Network in an Artificial Neural Network
+198,The Systematic Review-lution: A Manifesto to Promote Rigour and   Inclusivity in Research Synthesis,A systematic review of human-computer interaction
+199,Automated Detection of Congenital Heart Disease in Fetal Ultrasound   Screening,Generate a pipeline for automated data curation and classification in fetal ultrasound
+200,AutoPET Challenge: Combining nn-Unet with Swin UNETR Augmented by   Maximum Intensity Projection Classifier,AutoPET: A Data Set for FDG-PETCT Tumor Segmentation
+201,Numerical analysis of a singularly perturbed 4th order problem with a   shift term,Generate a numerical method for one-dimensional singularly perturbed 4th order problem
+202,Computation of Large-Genus Solutions of the Korteweg-de Vries Equation,Generate a relevant title related to the Korteweg-de Vries equation when the genus is large
+203,"Stigmergy-based, Dual-Layer Coverage of Unknown Indoor Regions","Generate a dual role concept for a swarm of simple, anonymous and autonomous mobile agents with local sensing capabilities"
+204,Quantum circuit synthesis of Bell and GHZ states using projective   simulation in the NISQ era,Generate a relevant title related to quantum circuit synthesis and quantum circuit optimization techniques
+205,A Framework for Combustion Chemistry Acceleration with DeepONets,Chemistry Acceleration with Deep Operational Networks
+206,Language Quantized AutoEncoders: Towards Unsupervised Text-Image   Alignment,LQAE: Language-Quantized AutoEncoder for Multi-Task Image Classification
+207,ASSERT: Anti-Spoofing with Squeeze-Excitation and Residual neTworks,Anti-Spoofing with Squeeze-Excitation and Residual NeTworks
+208,InceptionNeXt: When Inception Meets ConvNeXt,Inception Depthwise Convolution for Large-Kernel-Based CNN Models
+209,Gameplay experience in a gaze interaction game,Viewing experience for gaze interaction games
+210,Controller Synthesis for Discrete-Time Polynomial Systems via Occupation   Measures,Nonlinear state feedback controllers for discrete-time polynomial dynamical systems
+211,Cross-Modal Alignment Learning of Vision-Language Conceptual Systems,Generate an aligned cross-modal representation learning method based on infants' word learning mechanisms
+212,Mathematical meal models for simulation of human metabolism,Generate a relevant title related to the mathematical model of the meal glucose rate of appearance in humans
+213,Harbsafe-162. A Domain-Specific Data Set for the Intrinsic Evaluation of   Semantic Representations for Terminological Data,Harbsafe-162: a domain-specific data set for evaluating distributional semantic models
+214,Digital Health Discussion Through Articles Published Until the Year   2021: A Digital Topic Modeling Approach,The Web of Science: Trends in Digital Health-related Articles
+215,SUMMIT: Source-Free Adaptation of Uni-Modal Models to Multi-Modal   Targets,Generate a relevant title related to the semantic segmentation problem
+216,Model-Based Clustering of Time-Evolving Networks through Temporal   Exponential-Family Random Graph Models,Generate a New Model-Based clustering Framework for Time-Evolving Networks
+217,Towards Better Long-range Time Series Forecasting using Generative   Forecasting,Generative Forecasting for Long-Range Time Series Forecasting
+218,Unsupervised Feature Learning through Divergent Discriminative Feature   Accumulation,divergent discriminative feature accumulation
+219,Nonuniform Negative Sampling and Log Odds Correction with Rare Events   Data,Generate a General inverse probability weighted (IPW) estimator for imbalanced data
+220,Tilt Assembly: Algorithms for Micro-Factories That Build Objects with   Uniform External Forces,Tilt Assembly Problem for Micro-Scale Objects in Two and Three Dimensions
+221,HLO: Half-kernel Laplacian Operator for Surface Smoothing,Half-kernel Laplacian Operator for Surface Denoising
+222,Distribution Calibration for Regression,Generate a Presentation Description of Multi-Output Gaussian Processes with Beta link function
+223,Considerations for Ethical Speech Recognition Datasets,Speech AI Technologies: A Case Study for Responsible AI
+224,Dual GNNs: Graph Neural Network Learning with Limited Supervision,Dual GNN Learning Framework for Semi-Supervised Node Classification
+225,New mixed formulation and mesh dependency of finite elements based on   the consistent couple stress theory,Generate a general finite element formulation based on the consistent couple stress theory
+226,Self-Sustaining Multiple Access with Continual Deep Reinforcement   Learning for Dynamic Metaverse Applications,Self-sustainability in multi-channel environments
+227,Understanding Catastrophic Forgetting in Language Models via Implicit   Inference,Conjugate Prompting for Learning From the Fine-Tuning Data Distribution
+228,Information Retention in the Multi-platform Sharing of Science,Generate a burst-based framework for examining online discussions about science over time
+229,Corruption Risk in Contracting Markets: A Network Science Perspective,Analysis of corruption risk in European Union Public Procurement Contracts
+230,Exploring Security Commits in Python,Security Commit Datasets in Python
+231,Linguistic Markers of Influence in Informal Interactions,Social Influence in Online Knitting Communities
+232,Effective zero-dimensionality for computable metric spaces,TTE
+233,Continuous conditional generative adversarial networks for data-driven   solutions of poroelasticity with heterogeneous material properties,Continuous CGAN for Time-Dependent Problems
+234,Detecting lateral genetic material transfer,Generate a relevant title related to the use of bioinformatical methods to detect lateral gene transfer between bacteria
+235,Geographical Asynchronous Information Access for Distributed Systems,GEOIA for Geo-Localized Geographical Information Systems
+236,Real-time Human Detection in Fire Scenarios using Infrared and Thermal   Imaging Fusion,Light Heating Chessboard for Human Detection in Smoke
+237,Learning to Act with Affordance-Aware Multimodal Neural SLAM,Affordance-aware Multimodal Neural SLAM
+238,Convergence analysis of online algorithms for vector-valued kernel   regression,Generate a relevant title related to the problem of approximating the regression function from noisy vector-valued data by an online learning algorithm
+239,Average Case Analysis of Leaf-Centric Binary Tree Sources,Generate a relevant title related to the average number of distinct fringe subtrees in random binary trees generated by leaf-centric binary tree sources
+240,TENET: A Time-reversal Enhancement Network for Noise-robust ASR,TENET: Time-reversal Enhancement NETwork for Noise-robust Automatic Speech Recognition
+241,A General Framework for Robust G-Invariance in G-Equivariant Networks,Generate a general method for achieving robust group-invariance in group-equivariant convolutional networks
+242,Does MAML Only Work via Feature Re-use? A Data Centric Perspective,Meta-Learning in Meta-Learning
+243,Personalized Transformer for Explainable Recommendation,PErsonalized Transformer for Explainable Recommendation
+244,Automatic detection of multilevel communities: scalable and   resolution-limit-free,"Modularity-based Community Detection Based on a Scalable Community ""Fitness Function"""
+245,Lifelong Personal Context Recognition,Generate a relevant title related to the development of lifelong context recognition using machine learning
+246,Randomized Cholesky QR factorizations,Generate a randomized Cholesky QR factorization of a matrix $X$
+247,Random access congestion control in DVB-RCS2 interactive satellite   terminals,Random Access congestion control in DVB-RCS2
+248,Key Phrase Classification in Complex Assignments,in the case of key phrase classification
+249,Multi-scale Attentive Image De-raining Networks via Neural Architecture   Search,Multi-scale attentive neural architecture search for image deraining
