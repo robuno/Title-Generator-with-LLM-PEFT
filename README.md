@@ -1,6 +1,8 @@
 
 # Title Generator with LLM & PEFT (LoRA)
 
+✨ [UPDATE]: LLama2 fine-tuned with QLoRA will be added soon!
+
 This project aims to **generate a title from the given abstract** for academic articles. Models were fine tuned with **PEFT** using the [ArXiv dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv). Two different models were tuned with [**LoRA** (Hu et al., 2021)](https://arxiv.org/abs/2106.09685). Only articles in the computer science category were selected in the **ArXiv dataset**. This number has also been reduced due to memory and time limits. The fine-tuned models are available via HuggingFace spaces:
 
 - [HuggingFace Spaces BART](https://huggingface.co/robuno/title-generation-bart-6000-v2-1)
