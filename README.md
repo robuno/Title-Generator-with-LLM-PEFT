@@ -40,15 +40,6 @@ Training Parameters and Limitations
 
 
 
-## Screenshots
-- BART Training/Testing Loss (6 epochs)
-![BART Training/Testing Loss (6 epochs)](https://raw.githubusercontent.com/robuno/Title-Generator-with-LLM-PEFT/main/output/bart_6000_cs_abs.png)
-
-- T5 Training/Testing Loss (6 epochs)
-![T5 Training/Testing Loss (6 epochs)](https://raw.githubusercontent.com/robuno/Title-Generator-with-LLM-PEFT/main/output/t5_6000_cs_Abs.png)
-
-
-  
 ## Results
 
 ### Fine-Tuned BART 
@@ -72,3 +63,14 @@ Training Parameters and Limitations
 | 7 | A new heuristic algorithm for fast k-segmentation                       | A novel heuristic algorithm for k-segmentation                                           |
 | 8 | Progression and Challenges of IoT in Healthcare: A Short Review         | Smart Healthcare and Healthcare: A Comparative Analysis of Smart Healthcare and Security |
 | 9 | FVC: A New Framework towards Deep Video Compression in Feature Space    | Feature-space Video Compression for Learning Based Video Coding                          |
+
+
+## Screenshots
+- BART Training/Testing Loss (6 epochs)
+![BART Training/Testing Loss (6 epochs)](https://raw.githubusercontent.com/robuno/Title-Generator-with-LLM-PEFT/main/output/bart_6000_cs_abs.png)
+
+- T5 Training/Testing Loss (6 epochs)
+![T5 Training/Testing Loss (6 epochs)](https://raw.githubusercontent.com/robuno/Title-Generator-with-LLM-PEFT/main/output/t5_6000_cs_Abs.png)
+
+
+  
