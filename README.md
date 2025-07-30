@@ -1,12 +1,36 @@
 
-# Title Generator with LLM & PEFT (LoRA)
+# Title Generator with LLM & PEFT (LoRA and QLoRA)
 
-✨ [UPDATE]: Fine-tuned LLama2 with QLoRA will be added soon!
+This project aims to **generate a title from the given abstract** for academic articles. The project uses four different models fine-tuned with **PEFT** techniques using the [ArXiv dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv):
 
-This project aims to **generate a title from the given abstract** for academic articles. Models were fine tuned with **PEFT** using the [ArXiv dataset](https://www.kaggle.com/datasets/Cornell-University/arxiv). Two different models were tuned with [**LoRA** (Hu et al., 2021)](https://arxiv.org/abs/2106.09685). Only articles in the computer science category were selected in the **ArXiv dataset**. This number has also been reduced due to memory and time limits. The fine-tuned models are available via HuggingFace spaces:
+1. BART with LoRA
+2. T5 with LoRA
+3. LLaMA with QLoRA and Instruction Tuning
+4. Mistral with QLoRA and Instruction Tuning
+
+Only articles in the computer science category were selected from the **ArXiv dataset**. The base models are available via HuggingFace spaces:
 
 - [HuggingFace Spaces BART](https://huggingface.co/robuno/title-generation-bart-6000-v2-1)
 - [HuggingFace Spaces T5](https://huggingface.co/robuno/title-generation-t5base-6000-v2-1)
+
+## Data Augmentation Methods
+
+### Back Translation
+The project implements back translation using MarianMT models to create augmented training data. The process involves:
+1. Translating English abstracts to French using Helsinki-NLP/opus-mt-en-fr
+2. Translating back to English using Helsinki-NLP/opus-mt-fr-en
+This creates paraphrased versions of the original abstracts while maintaining their meaning.
+
+### Synthetic Dataset Generation
+Using TinyLlama-1.1B-Chat model, the project generates synthetic abstract-title pairs to augment the training data. The model is prompted to create academic-style abstracts and corresponding titles, increasing the diversity of the training dataset.
+
+## Advanced Training Methods
+
+### Instruction Tuning with QLoRA
+LLaMA and Mistral models are fine-tuned using QLoRA (Quantized Low-Rank Adaptation) with instruction-based training. This approach helps the models better understand the specific task of title generation through explicit instructions.
+
+### Curriculum Learning
+The training process implements curriculum learning, where models are trained progressively from simpler to more complex examples. This approach helps improve model performance and generalization capability.
 
 
 The project includes:
@@ -48,6 +72,22 @@ Training Parameters and Limitations
 ### Fine-Tuned T5 
 - Memory Cached: 13.7 GB
 - Training time: 9793.74 s
+
+## Evaluation Metrics
+
+The models are evaluated using multiple metrics to ensure comprehensive performance assessment:
+
+1. **BLEU Score**: 
+   - BLEU-1 and BLEU-2 scores to measure word overlap
+   - Uses smoothing function for better handling of zero-match cases
+
+2. **ROUGE Score**:
+   - Measures overlap between generated and reference titles
+   - Includes ROUGE-1, ROUGE-2, and ROUGE-L variants
+
+3. **METEOR Score**:
+   - Evaluates semantic similarity between generated and reference titles
+   - Takes into account synonyms and paraphrases
 
 
 ### Fine-Tuned BART Outputs
